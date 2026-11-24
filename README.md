@@ -23,8 +23,7 @@ Funnily enough, to keep the Chaos running we need a few Rules.
 - **Everything is public, nothing is secret**. Related to the above, things like heatmaps, stats, and similar stuff are actually allowed, but they will be public for everyone to see.
 - This is a **web game**. No executables will be produced.
 - Management reserves the right to **change the rules** at any time.
-- Changes to this README require a pull request and human review before merge. This includes text-only edits.
-- Code contributions to the project are under the **MS-PL license**.
+- Code contributions to the project are under the **[MS-PL license](LICENSE)**.
   - Only use code for which you have the full rights (again should be common sense, but...)
 
 ### No logins
