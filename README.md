@@ -57,3 +57,11 @@ Funnily enough, to keep the Chaos running we need a few Rules.
 - Write all first-party client and server code in **TypeScript**. It must pass strict type checking. JavaScript libraries are welcome as dependencies.
 - **Indentation with tabs is mandatory**. No exceptions.
 - EOL is `LF` (`\n`). No exceptions.
+
+### Server and Clients
+
+- This project will contain both the server and the official client.
+- Work on the server and on the client can proceed independently.
+- Third-party independent clients are welcome.
+- However **it is prohibited** to implement a feature in the server and add support in a third-party client unless support is also added to the official client.
+- Client-only features (any quality of life or whatever else thing) that are independent of the server have no restriction (of course).
