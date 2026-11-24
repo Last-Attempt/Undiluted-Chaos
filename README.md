@@ -23,7 +23,7 @@ Funnily enough, to keep the Chaos running we need a few Rules.
 - **Everything is public, nothing is secret**. Related to the above, things like heatmaps, stats, and similar stuff are actually allowed, but they will be public for everyone to see.
 - This is a **web game**. No executables will be produced.
 - Management reserves the right to **change the rules** at any time.
-- Code contributions to the project are under the **MS-PL license**.
+- Code contributions to the project are under the **[MS-PL license](LICENSE)**.
   - Only use code for which you have the full rights (again should be common sense, but...)
 
 ### No logins
@@ -54,5 +54,6 @@ Funnily enough, to keep the Chaos running we need a few Rules.
 - Supporting optional peripherials (joypads etc.) is allowed as long as it's not mandatory.
 - The game must work properly on normal computers running **any OS**.
   - If it also runs on mobile it's a very nice added bonus, but it's acceptable if some sections are less enjoyable there.
+- Write all first-party client and server code in **TypeScript**. It must pass strict type checking. JavaScript libraries are welcome as dependencies.
 - **Indentation with tabs is mandatory**. No exceptions.
 - EOL is `LF` (`\n`). No exceptions.
